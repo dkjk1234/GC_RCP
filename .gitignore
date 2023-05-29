@@ -79,3 +79,5 @@ Packages/packages-lock.json
 ProjectSettings/boot.config
 ProjectSettings/ProjectVersion.txt
 *.json
+Packages/packages-lock.json
+Packages/packages-lock.json
